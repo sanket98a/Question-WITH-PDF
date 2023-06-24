@@ -13,7 +13,8 @@ GPT-3 Question-Answering: The system employs GPT-3, a state-of-the-art language 
 
 ### Usage:
 
-Clone the repository: git clone https://github.com/your-username/Question-WITH-PDF.git
+Clone the repository: git clone ```https://github.com/sanket98a/Question-WITH-PDF.git```
+
 
 Install the required dependencies: ```pip install -r requirements.txt```
 
